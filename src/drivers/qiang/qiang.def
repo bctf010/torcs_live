@@ -1,0 +1,19 @@
+;
+;   file                 : qiang.def
+;   created              : 2020年 09月 24日 星期四 13:59:54 CST
+;   copyright            : (C) 2002 qiang
+;
+;
+;    This program is free software; you can redistribute it and/or modify
+;    it under the terms of the GNU General Public License as published by
+;    the Free Software Foundation; either version 2 of the License, or   
+;    (at your option) any later version.                                 
+;
+
+LIBRARY	qiang
+
+SECTIONS .data READ WRITE
+
+EXPORTS
+	qiang
+

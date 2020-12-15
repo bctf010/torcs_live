@@ -1,0 +1,166 @@
+Saving /home/work/.torcs/drivers/human/car.xml to /home/work/.torcs/drivers/human/car.xml.old
+Saving /home/work/.torcs/drivers/human/human.xml to /home/work/.torcs/drivers/human/human.xml.old
+Saving /home/work/.torcs/drivers/human/preferences.xml to /home/work/.torcs/drivers/human/preferences.xml.old
+Saving /home/work/.torcs/config/raceengine.xml to /home/work/.torcs/config/raceengine.xml.old
+Saving /home/work/.torcs/config/style.xsl to /home/work/.torcs/config/style.xsl.old
+Saving /home/work/.torcs/config/screen.xml to /home/work/.torcs/config/screen.xml.old
+Saving /home/work/.torcs/config/graph.xml to /home/work/.torcs/config/graph.xml.old
+Saving /home/work/.torcs/config/sound.xml to /home/work/.torcs/config/sound.xml.old
+Saving /home/work/.torcs/config/raceman/champ.xml to /home/work/.torcs/config/raceman/champ.xml.old
+Saving /home/work/.torcs/config/raceman/dtmrace.xml to /home/work/.torcs/config/raceman/dtmrace.xml.old
+Saving /home/work/.torcs/config/raceman/endrace.xml to /home/work/.torcs/config/raceman/endrace.xml.old
+Saving /home/work/.torcs/config/raceman/ncrace.xml to /home/work/.torcs/config/raceman/ncrace.xml.old
+Saving /home/work/.torcs/config/raceman/practice.xml to /home/work/.torcs/config/raceman/practice.xml.old
+Saving /home/work/.torcs/config/raceman/quickrace.xml to /home/work/.torcs/config/raceman/quickrace.xml.old
+
+********** Memory sharing started, attached at 64936000 **********
+ 
+Visual Properties Report
+------------------------
+Compatibility mode, properties unknown.
+Team2 initialized
+Team1 initialized
+Robot Name=Team3, path=Robots/index/1
+Robot Name=lliaw, path=Robots/index/1
+Robot Name=lliaw, path=Robots/index/2
+Robot Name=lliaw, path=Robots/index/3
+Robot Name=lliaw, path=Robots/index/4
+Robot Name=lliaw, path=Robots/index/5
+Robot Name=lliaw, path=Robots/index/6
+Robot Name=lliaw, path=Robots/index/7
+Robot Name=lliaw, path=Robots/index/8
+Robot Name=lliaw, path=Robots/index/9
+Robot Name=lliaw, path=Robots/index/10
+Robot Name=scr_server, path=Robots/index/0
+Robot Name=scr_server, path=Robots/index/1
+Robot Name=scr_server, path=Robots/index/2
+Robot Name=scr_server, path=Robots/index/3
+Robot Name=scr_server, path=Robots/index/4
+Robot Name=scr_server, path=Robots/index/5
+Robot Name=scr_server, path=Robots/index/6
+Robot Name=scr_server, path=Robots/index/7
+Robot Name=scr_server, path=Robots/index/8
+Robot Name=scr_server, path=Robots/index/9
+Robot Name=sparkle, path=Robots/index/0
+Robot Name=sparkle, path=Robots/index/1
+Robot Name=sparkle, path=Robots/index/2
+Robot Name=sparkle, path=Robots/index/3
+Robot Name=sparkle, path=Robots/index/4
+Robot Name=sparkle, path=Robots/index/5
+Robot Name=sparkle, path=Robots/index/6
+Robot Name=sparkle, path=Robots/index/7
+Robot Name=sparkle, path=Robots/index/8
+Robot Name=sparkle, path=Robots/index/9
+Robot Name=damned, path=Robots/index/0
+Robot Name=damned, path=Robots/index/1
+Robot Name=damned, path=Robots/index/2
+Robot Name=damned, path=Robots/index/3
+Robot Name=damned, path=Robots/index/4
+Robot Name=damned, path=Robots/index/5
+Robot Name=damned, path=Robots/index/6
+Robot Name=damned, path=Robots/index/7
+Robot Name=damned, path=Robots/index/8
+Robot Name=damned, path=Robots/index/9
+Robot Name=Team2, path=Robots/index/1
+Robot Name=human, path=Robots/index/1
+Robot Name=bt, path=Robots/index/0
+Robot Name=bt, path=Robots/index/1
+Robot Name=bt, path=Robots/index/2
+Robot Name=bt, path=Robots/index/3
+Robot Name=bt, path=Robots/index/4
+Robot Name=bt, path=Robots/index/5
+Robot Name=bt, path=Robots/index/6
+Robot Name=bt, path=Robots/index/7
+Robot Name=bt, path=Robots/index/8
+Robot Name=bt, path=Robots/index/9
+Robot Name=YourCarName, path=Robots/index/1
+Robot Name=olethros, path=Robots/index/0
+Robot Name=olethros, path=Robots/index/1
+Robot Name=olethros, path=Robots/index/2
+Robot Name=olethros, path=Robots/index/3
+Robot Name=olethros, path=Robots/index/4
+Robot Name=olethros, path=Robots/index/5
+Robot Name=olethros, path=Robots/index/6
+Robot Name=olethros, path=Robots/index/7
+Robot Name=olethros, path=Robots/index/8
+Robot Name=olethros, path=Robots/index/9
+Robot Name=test, path=Robots/index/1
+Robot Name=berniw3, path=Robots/index/1
+Robot Name=berniw3, path=Robots/index/2
+Robot Name=berniw3, path=Robots/index/3
+Robot Name=berniw3, path=Robots/index/4
+Robot Name=berniw3, path=Robots/index/5
+Robot Name=berniw3, path=Robots/index/6
+Robot Name=berniw3, path=Robots/index/7
+Robot Name=berniw3, path=Robots/index/8
+Robot Name=berniw3, path=Robots/index/9
+Robot Name=berniw3, path=Robots/index/10
+Robot Name=Team1, path=Robots/index/1
+Robot Name=Team4, path=Robots/index/1
+Robot Name=berniw2, path=Robots/index/1
+Robot Name=berniw2, path=Robots/index/2
+Robot Name=berniw2, path=Robots/index/3
+Robot Name=berniw2, path=Robots/index/4
+Robot Name=berniw2, path=Robots/index/5
+Robot Name=berniw2, path=Robots/index/6
+Robot Name=berniw2, path=Robots/index/7
+Robot Name=berniw2, path=Robots/index/8
+Robot Name=berniw2, path=Robots/index/9
+Robot Name=berniw2, path=Robots/index/10
+Robot Name=berniw, path=Robots/index/1
+Robot Name=berniw, path=Robots/index/2
+Robot Name=berniw, path=Robots/index/3
+Robot Name=berniw, path=Robots/index/4
+Robot Name=berniw, path=Robots/index/5
+Robot Name=berniw, path=Robots/index/6
+Robot Name=berniw, path=Robots/index/7
+Robot Name=berniw, path=Robots/index/8
+Robot Name=berniw, path=Robots/index/9
+Robot Name=berniw, path=Robots/index/10
+Robot Name=inferno, path=Robots/index/1
+Robot Name=inferno, path=Robots/index/2
+Robot Name=inferno, path=Robots/index/3
+Robot Name=inferno, path=Robots/index/4
+Robot Name=inferno, path=Robots/index/5
+Robot Name=inferno, path=Robots/index/6
+Robot Name=inferno, path=Robots/index/7
+Robot Name=inferno, path=Robots/index/8
+Robot Name=inferno, path=Robots/index/9
+Robot Name=inferno, path=Robots/index/10
+Robot Name=inferno2, path=Robots/index/1
+Robot Name=inferno2, path=Robots/index/2
+Robot Name=inferno2, path=Robots/index/3
+Robot Name=inferno2, path=Robots/index/4
+Robot Name=inferno2, path=Robots/index/5
+Robot Name=inferno2, path=Robots/index/6
+Robot Name=inferno2, path=Robots/index/7
+Robot Name=inferno2, path=Robots/index/8
+Robot Name=inferno2, path=Robots/index/9
+Robot Name=inferno2, path=Robots/index/10
+Robot Name=tita, path=Robots/index/1
+Robot Name=tita, path=Robots/index/2
+Robot Name=tita, path=Robots/index/3
+Robot Name=tita, path=Robots/index/4
+Robot Name=tita, path=Robots/index/5
+Robot Name=tita, path=Robots/index/6
+Robot Name=tita, path=Robots/index/7
+Robot Name=tita, path=Robots/index/8
+Robot Name=tita, path=Robots/index/9
+Robot Name=tita, path=Robots/index/10
+Robot Name=Team5, path=Robots/index/1
+Team1 initialized
+Team1 InitFuncPt
+Team1 newRace begin
+Team1 newRace end
+OpenAL backend info:
+  Vendor: OpenAL Community
+  Renderer: OpenAL Soft
+  Version: 1.1 ALSOFT 1.18.2
+  Available sources: 256
+  Available buffers: 1024 or more
+  Dynamic Sources: requested: 235, created: 235
+  #static sources: 21
+  #dyn sources   : 235
+Team1 shutdown called
+Result_Rank 1#Team1
+Result_Rank 2#YourCarName

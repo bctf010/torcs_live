@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    file                 : Champion_Tester003.xml
+    created              : 2020年 09月 25日 星期五 09:15:35 CST
+    copyright            : (C) 2002 Champion_Tester
+-->
+
+<!--    This program is free software; you can redistribute it and/or modify  -->
+<!--    it under the terms of the GNU General Public License as published by  -->
+<!--    the Free Software Foundation; either version 2 of the License, or     -->
+<!--    (at your option) any later version.                                   -->
+
+<!DOCTYPE params SYSTEM "../../libs/tgf/params.dtd">
+<params name="Champion_Tester003" type="robotdef">
+  <section name="Robots">
+    <section name="index">
+      <section name="1">
+	<attstr name="name" val="Champion_Tester003"></attstr>
+	<attstr name="desc" val=""></attstr>
+	<attstr name="team" val=""></attstr>
+	<attstr name="author" val="Champion_Tester"></attstr>
+	<attstr name="car name" val="car3-trb1"></attstr>
+	<attstr name="category" val="trb1"></attstr>
+	<attnum name="race number" val="0"></attnum>
+	<attnum name="red" val="1.0"></attnum>
+	<attnum name="green" val="1.0"></attnum>
+	<attnum name="blue" val="1.0"></attnum>
+      </section>
+    </section>
+  </section>
+</params>
